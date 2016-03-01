@@ -5,6 +5,5 @@ node_modules/
 *.min.*
 .sass-cache
 *.js
-*.css
 
 typings
